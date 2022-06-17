@@ -1,0 +1,10 @@
+[
+  {
+    "package": "Certara.R",
+    "oncran": true
+  },
+  {
+    "package": "tidyvpc",
+    "oncran": true
+  }
+]
