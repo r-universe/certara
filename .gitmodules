@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "tidyvpc"]
-	path = tidyvpc
-	url = https://github.com/certara/tidyvpc
-	shallow = true
-	registered = true
 [submodule "Certara.R"]
 	path = Certara.R
 	url = https://github.com/certara/r-certara
+	shallow = true
+	registered = true
+[submodule "tidyvpc"]
+	path = tidyvpc
+	url = https://github.com/certara/tidyvpc
 	shallow = true
 	registered = true
