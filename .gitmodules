@@ -11,3 +11,6 @@
 [submodule "tidyvpc"]
 	path = tidyvpc
 	url = https://github.com/certara/tidyvpc
+[submodule "vachette"]
+	path = vachette
+	url = https://github.com/certara/vachette
